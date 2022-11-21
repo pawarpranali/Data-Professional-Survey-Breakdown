@@ -21,6 +21,5 @@ It represents the average salary by job title, level of difficulty to break into
 
 ## Screenshot
 
-![App Screenshot](https://drive.google.com/file/d/1TVwcf0E2Arzw0eAx7plvZVmOjt0V6_Fr/view?usp=sharing)
-
+![App Screenshot](https://drive.google.com/uc?export=view&id=1TVwcf0E2Arzw0eAx7plvZVmOjt0V6_Fr)
 
